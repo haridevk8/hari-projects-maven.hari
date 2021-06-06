@@ -1,0 +1,6 @@
+version: '1.7'
+
+services:
+    image: haridevk8/hariprojects:maven-openjdk11
+    ports:
+      - "8000:8080"
